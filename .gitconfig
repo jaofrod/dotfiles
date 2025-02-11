@@ -1,0 +1,9 @@
+[user]
+  name = João Francisco Rodrigues
+  email = jfrodrigues42@gmail.com 
+[color]
+  ui = true
+[merge]
+  tool = vimdiff
+[mergetool]
+  prompt = false
