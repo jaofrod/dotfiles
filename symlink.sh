@@ -6,5 +6,6 @@ ln -s ~/.dotfiles/rofi ~/.config/rofi
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.zsh ~/.zsh
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/.tmux.conf ~/.tmux.conf
 
 echo "Symlinks ok"

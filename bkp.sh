@@ -6,5 +6,6 @@ mv ~/.config/rofi ~/.config/rofi_
 mv ~/.zshrc ~/.zshrc_
 mv ~/.zsh ~/.zsh_
 mv ~/.gitconfig ~/.gitconfig_
+mv ~/.tmux.conf ~/.tmux.conf_
 
 echo "Backups ok"
