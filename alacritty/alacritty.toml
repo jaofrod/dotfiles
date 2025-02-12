@@ -1,0 +1,12 @@
+[general]
+  live_config_reload = true
+
+[window]
+  decorations = "None"
+  padding = { x = 3, y = 3 }
+  dynamic_padding = true
+  opacity = 0.9
+
+[colors.primary]
+  background = "#222436"
+  foreground = "#c8d3f5"
