@@ -10,3 +10,6 @@
 [colors.primary]
   background = "#222436"
   foreground = "#c8d3f5"
+
+[font]
+  normal = { family = "FiraCode Nerd Font", style = "Regular" }
